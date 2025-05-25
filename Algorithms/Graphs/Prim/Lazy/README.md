@@ -35,7 +35,7 @@ Prim’s algorithm grows the MST one edge at a time, starting from an arbitrary 
 1. **Compile**
 
    ```bash
-   g++ -std=c++17 -O2 -o prim main.cpp
+   g++ -o prim main.cpp
    ```
 
 2. **Run**
